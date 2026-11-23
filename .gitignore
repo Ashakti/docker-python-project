@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+
+# Temporary files
+*.log
+temp/
