@@ -34,3 +34,9 @@ This is my first Python application running inside a Docker container.
 
 GitHub: https://github.com/Ashakti
 
+ 
+## Learning Progress 
+Learning Git and GitHub for Cloud Engineering. 
+ 
+## Learning Progress 
+Learning Git and GitHub for Cloud Engineering. 
